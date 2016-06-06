@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Evseev\projects\MyRESTClient\Unit1.pas=C:\Evseev\projects\MyRESTClient\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\projects\MyRESTClient\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\projects\MyRESTClient\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Evseev\projects\MyRESTClient\Project1.dproj=C:\Evseev\projects\MyRESTClient\LUNA_SIMILAR_TEMPLATES.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\projects\MyRESTClient\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Evseev\projects\MyRESTClient\Unit1.dfm=C:\Evseev\projects\MyRESTClient\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,C:\Evseev\projects\LUNA_TASK_EXECUTER\LUNA_TASK_EXECUTER.dproj=C:\Evseev\projects\LUNA_TASK_EXECUTER\LUNA_SIMILAR_TEMPLATES.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
